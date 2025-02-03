@@ -5,4 +5,4 @@ Google Analytics learning resource
 - GA Home page: https://analytics.google.com/
 
 ## Resources
-- Getting started: https://developers.google.com/analytics/learn/beginners
+- Getting started: https://developers.google.com/analytics/learn/beginners/
