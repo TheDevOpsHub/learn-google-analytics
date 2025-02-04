@@ -10,3 +10,4 @@ Google Analytics learning resource
 - Analytics Help: https://support.google.com/analytics/topic/14089939?hl=en&ref_topic=14090456&sjid=8466186194350055950-NC
 - Get Started using Google Analytics: https://skillshop.docebosaas.com/learn/courses/8108/get-started-using-google-analytics
 - Set up Analytics for a website and/or app: https://support.google.com/analytics/answer/9304153
+- [GA4] Demo account: https://support.google.com/analytics/answer/6367342?hl=en&ref_topic=14090456&sjid=8466186194350055950-NC#zippy=%2Cin-this-article
