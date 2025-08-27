@@ -1,5 +1,5 @@
 # learn-google-analytics
-Google Analytics learning resource
+Google Analytics learning resources
 
 ## Links
 - GA Home page: https://analytics.google.com/
@@ -66,4 +66,3 @@ Google Analytics learning resource
 - Checkout repo: https://github.com/googleanalytics/ga4-tutorials
 - In the tutorials source code, replace the `GTM-*` ID by yours ID
 - Start the web with Deno (install if deno is not available on you PC)
-- TODO
